@@ -1,0 +1,110 @@
+{
+    "coffee": 
+    [
+        "The coffee bar serves warmth and energy from 8 AM to 6 PM every day.",
+        "Your daily caffeine fix is brewing-visit the coffee bar from 8 to 6.",
+        "Coffee cravings? The campus bar is open for you, 8 AM to 6 PM."
+    ],
+    "library": 
+    [
+        "The library never sleeps-open 24/7 for your academic needs.",
+        "Your haven of books and peace, open round the clock for you.",
+        "Study anytime! The library is open 24 hours, 7 days a week."
+    ],
+    "admission": 
+    [
+        "Questions about joining us? Email admissions@poppleton.edu for assistance.",
+        "Explore your future! Contact our admissions office at admissions@poppleton.edu.",
+        "Ready to enroll? Admissions help is just an email away: admissions@poppleton.edu."
+    ],
+    "sports": 
+    [
+        "Stay active! The sports center is open from 6 AM to 10 PM daily.",
+        "From dawn till dusk, break a sweat at the sports center, 6 AM to 10 PM.",
+        "Fitness first! The sports complex welcomes you from 6 in the morning to 10 at night."
+    ],
+    "parking": 
+    [
+        "Park with ease-get your permit online for convenient campus access.",
+        "Need a parking spot? Permits for students and staff are available online.",
+        "Parking made simple! Secure your permit through the online portal."
+    ],
+    "events": 
+    [
+        "Celebrate the season at the Winter Carnival this Friday at 6 PM in the main quad.",
+        "Don't miss out! The Winter Carnival lights up the quad this Friday at 6 PM.",
+        "Join the fun! Winter Carnival takes over the main quad Friday at 6 PM!"
+    ],
+    "transportation": 
+    [
+        "Campus shuttles operate from 7 AM to 11 PM, check the app for real-time updates.",
+        "Stay connected! Shuttles run daily, 7 AM to 11 PM, for easy campus travel.",
+        "Hop on a campus shuttle-service runs from 7 in the morning to 11 at night."
+    ],
+    "transcript": 
+    [
+        "Need transcripts? Request them easily through the Registrar's Office portal.",
+        "Your official transcripts are a click away visit the Registrar's portal online.",
+        "Access your transcripts anytime via the Registrar's Office portal."
+    ],
+    "scholarship": 
+    [
+        "Unlock your potential apply for scholarships under the Financial Aid section.",
+        "Scholarship applications are open online. Deadlines vary, so act fast!",
+        "Looking for funding? Find scholarships in the Financial Aid portal and apply early."
+    ],
+    "exam": 
+    [
+        "Exam dates are online-check the Academic Calendar on the university website.",
+        "Plan ahead! Find exam schedules under the Academic Calendar section.",
+        "Stay prepared, exam details are listed in the Academic Calendar on our site."
+    ],
+    "thanks":
+    [
+        "You're welcome! Anything else I can help you with?",  
+        "No problem! Anything else I can help you with?",  
+        "Anytime! Anything else I can help you with?"  
+    ],
+    "sure":
+    [
+        "Okayy! Anything you wanted to ask more?",  
+        "Sure! Do you have anything else to ask?",  
+        "Alright! Is there anything else on your mind?"
+    ],
+    "ok":
+    [
+        "Okayy! Anything you wanted to ask more?",  
+        "Sure! Do you have anything else to ask?",  
+        "Alright! Is there anything else on your mind?"
+    ],
+    "okay":
+    [
+        "Okayy! Anything you wanted to ask more?",  
+        "Sure! Do you have anything else to ask?",  
+        "Alright! Is there anything else on your mind?"
+    ],
+    "yes":  
+    [  
+    "Sure! Do you have any other questions?",  
+    "Absolutely! Feel free to ask anything else.",  
+    "Alright! Is there something more I can help with?"  
+    ],
+    "eca":  
+    [  
+        "Join extracurricular activities like debate, music, and drama clubs. Visit the Student portal for details.",  
+        "Unleash your potential! Participate in sports, cultural events, and community outreach programs.",  
+        "Make the most of your time at Poppleton! Sign up for workshops, clubs, and volunteering opportunities through the ECA Office."
+    ],
+    "news":  
+    [  
+        "Stay updated! Check out the latest campus news on our website.",  
+        "Campus update: The library renovation starts next Monday. Plan accordingly.",  
+        "Breaking news: Poppleton University has introduced a new AI and ML course. "
+    ],
+    "tours":  
+    [  
+        "Interested in exploring Poppleton? Campus tours run every Friday at 10 AM and 2 PM. ",  
+        "Discover Poppleton! Book your campus tour through the Admissions page.",  
+        "Want a sneak peek of Poppleton? Guided campus tours are available weekly."
+    ]
+}
